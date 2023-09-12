@@ -13,5 +13,6 @@ going my first try at godot so this is jank as heck
 buddy i made this at like nights of 1 or 2 am. i didn't have the time 2 look up better ways to do things.
 i was falling asleep!!! 
 
-idk what 2 license this as or what ever. just don't like idk. say u made it? i used some other 
-script i got from that asset library. so i didn't make that part. 
+idk what 2 license this as or what ever. just don't like idk. say u made my game? 
+u can use this tho if u want to like. make something like it tho.
+i used some other  script i got from that asset library. so i didn't make that part. 
